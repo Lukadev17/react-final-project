@@ -1,0 +1,28 @@
+.wikipedia {
+  background-color: white;
+  padding: 12px;
+
+  align-items: center;
+  color: #f5f5f1;
+  text-decoration: none;
+  text-align: center;
+}
+.wiki-text-title {
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+}
+
+.wiki-text-body {
+  margin: auto;
+  width: 80%;
+
+  color: black;
+}
+
+.wikipediaContainer {
+  margin: auto;
+  width: 60%;
+  padding-top: 90px;
+  padding-bottom: 0px;
+}
